@@ -20,3 +20,4 @@ Badges designed by me for projects or personal use.
 <img alt="badge" align="left" width="300" height="300" src="https://github.com/sampzzz/badges/blob/main/badges/17.png">
 <img alt="badge" align="left" width="300" height="300" src="https://github.com/sampzzz/badges/blob/main/badges/18.png">
 <img alt="badge" align="left" width="300" height="300" src="https://github.com/sampzzz/badges/blob/main/badges/19.png">
+<img alt="badge" align="left" width="300" height="300" src="https://github.com/sampzzz/badges/blob/main/badges/20.png">
